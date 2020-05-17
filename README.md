@@ -1,0 +1,2 @@
+# flutter_starter005_provider
+confirma stergerea produsului
